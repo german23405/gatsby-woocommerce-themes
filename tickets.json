@@ -1,0 +1,19 @@
+{
+    "tickets": [
+    {
+    "id": "1",
+    "title": "Fix the footer links please",
+    "body": "Lorem ipsum Triforce sit amet, Linkus",
+    "priority": "low",
+    "user_email": "mario@netninja.dev"
+    },
+
+    {
+        "id": "2",
+        "title": "Incididunt ullamco ex et",
+        "body": "Qui nulla magna anim.",
+        "priority": "high",
+        "user_email": "1231123@123123.dev"
+        }
+    ]
+}
